@@ -30,4 +30,6 @@ urlpatterns = [
     # path('index/', views.index),
     path('test/', views.test),
     path('index/', views.index),
+    path('load/', views.load),
+    # path('t/', views.t),
 ]
