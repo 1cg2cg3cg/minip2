@@ -17,5 +17,5 @@ def index(request) :
 
 def test(request) :
 
-    return render(request,'account-information.html')
+    return render(request,'user-page.html')
     #return render(request,'test.html', {'a':12})
